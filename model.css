@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.window{
+    font-size: 35px;
+    font: bold;
+    text-align: center;
+
+}
+h1{
+    color: brown;
+}
+.janela{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: green;
+    font: bold;
+}
+h3{
+    font: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    color: black;
+    text-transform: capitalize;
+
+
+}
